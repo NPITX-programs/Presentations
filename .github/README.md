@@ -8,7 +8,7 @@ Here are all the reqriments, broken into 2 main sections (might subdivide more l
 2. Three things learned in core
 3. Things you learned in club and/ or elective
 4. favorite memory from **this** term
-	- **must**, I repeat, **must**
+	- **must**, I repeat, **must** be from *this* term.
 ## Notes
 1. do more than just a simple description (like name of module)
 2. recomendations for haveing high quality over the general slideshow (some specialized sections bellow):
