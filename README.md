@@ -1,5 +1,5 @@
 # Presentations
-All the presentations
+All of Charlies Presentations
 
 ## Reqriments
 1. 3 things learned in tech
