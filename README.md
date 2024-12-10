@@ -2,6 +2,7 @@
 All of Charlies Presentations
 
 # Presentation Reqriments
+Here are all the reqriments, broken into 2 main sections (might subdivide more latter on)
 ## General Reqriments
 1. Three things learned in tech
 2. Three things learned in core
