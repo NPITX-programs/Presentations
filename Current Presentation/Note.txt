@@ -1,1 +1,2 @@
 this is where the current presentation is worked on
+this will store the version 1.0 of the title slide (the concepts of which might get used latter, especially combined with the concepts of version 2.0, effectivly a version 3.0)
