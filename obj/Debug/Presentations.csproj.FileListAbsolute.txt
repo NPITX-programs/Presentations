@@ -1,0 +1,9 @@
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\bin\Debug\Presentations.exe.config
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\bin\Debug\Presentations.exe
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\bin\Debug\Presentations.pdb
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\obj\Debug\Presentations.csproj.AssemblyReference.cache
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\obj\Debug\Presentations.Properties.Resources.resources
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\obj\Debug\Presentations.csproj.GenerateResource.cache
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\obj\Debug\Presentations.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\obj\Debug\Presentations.exe
+H:\Students_Folder\Charlie Hatch\Presentations\Presentation Code\obj\Debug\Presentations.pdb
