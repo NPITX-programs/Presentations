@@ -1,2 +1,4 @@
 This is for the "resources". General things like images can be put in here, and thereby uploaded to GitHub.
 All branches, except for this one, will contain a .gitignore with the express purpose of preventing the accidental removal of resources. Technically they all will have the .gitignore, just the /transfer part will be removed, and then recovered. As the recovery is after it, it overrules the removal. So long as other branches are not merged here, the edits will stick
+
+THIS SHOULD BE THE BRANCH YOU MERGE THE ROUSOURSES INTO, NEVER MERGE THIS (OR ANY OTHER BRANCH) INTO RESOURSES
