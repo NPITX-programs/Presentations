@@ -1,4 +1,2 @@
 the finished presentations will be put in here, the folder they are in will have the name, and in that folder will be the finished presentation, and (within folders as formated as it was made) the files used for it.
 the folder names are also numbered, so if the same file name is used, they still can both exist
-
-as you can tell, not complete
