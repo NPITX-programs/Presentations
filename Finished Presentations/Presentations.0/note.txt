@@ -1,0 +1,3 @@
+This is for the basis of presentations
+It will have files that are needed during creation, and information on formatting.
+Each presentation will be a branch, which will get merged with "main" (which might be renamed)
