@@ -1,1 +1,2 @@
-This is for the "resources". General things like images can be put in here, and thereby uploaded to github. A .gitignore in other branches will prevent them from being uploaded to other branches, but the folder will remain (if useing desktop), as since ignored it won't be removed (in theory)
+This is for the "resources". General things like images can be put in here, and thereby uploaded to GitHub.
+All branches, except for this one, will contain a .gitignore with the express purpose of preventing the accidental removal of resources. Technically they all will have the .gitignore, just the /transfer part will be removed, and then recovered. As the recovery is after it, it overrules the removal. So long as other branches are not merged here, the edits will stick
