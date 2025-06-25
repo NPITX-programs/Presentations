@@ -1,1 +1,2 @@
-This will contain a program that will be used to allow the presentations to easily interface with github
+This will contain a program that will be used to allow the presentations to easily interface with GitHub
+incomplete reset
