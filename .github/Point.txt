@@ -1,0 +1,3 @@
+this is here so, after mergeing in all that format stuff, I can put it into the .github folder.
+
+as for the reason i'm not putting those files into .github in format? well, uh, anyways... (okay, there is actually a reason)
